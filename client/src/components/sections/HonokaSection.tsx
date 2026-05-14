@@ -55,9 +55,6 @@ export default function HonokaSection() {
             You're the first person I think about when I wake up at 2 AM, and the last thought before I sleep. Our calls are the highlight of my afternoons—they're the thing I look forward to most.
           </p>
           <p>
-            In a life of quiet routines and early mornings, you bring warmth and genuine connection. You make me want to be better, to care more deeply, and to appreciate every moment we share.
-          </p>
-          <p>
             This is my world. And you're the most important part of it.
           </p>
         </div>
